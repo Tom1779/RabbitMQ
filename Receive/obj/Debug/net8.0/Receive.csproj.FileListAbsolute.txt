@@ -17,3 +17,4 @@ D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\refint\Receive.dll
 D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.pdb
 D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
 D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\ref\Receive.dll
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.sourcelink.json

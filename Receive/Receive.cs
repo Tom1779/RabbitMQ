@@ -6,6 +6,11 @@ var factory = new ConnectionFactory { HostName = "localhost" };
 using var connection = await factory.CreateConnectionAsync();
 using var channel = await connection.CreateChannelAsync();
 
+int num1 = 4;
+int num2 = 5;
+int num3;
+
+//Creating queue in case sender hasn't started yet
 await channel.QueueDeclareAsync(queue: "hello", durable: false, exclusive: false, autoDelete: false,
     arguments: null);
 
@@ -16,11 +21,15 @@ consumer.ReceivedAsync += (model, ea) =>
 {
     var body = ea.Body.ToArray();
     var message = Encoding.UTF8.GetString(body);
-    if (message == "Hello World!")
+    var comm_result = message switch
     {
-        Console.WriteLine(" Message Recieved");
-    }
-    Console.WriteLine($" [x] Received {message}");
+        "add" => num3 = num1 + num2,
+        "subtract" => num3 = num1 - num2,
+        "divide" => num3 = num1 / num2,
+        "multiply" => num3 = num1 * num2,
+        _ => num3 = -33,
+    };
+    Console.WriteLine($" [x] Received {message}, result is {num3}");
     return Task.CompletedTask;
 };
 
