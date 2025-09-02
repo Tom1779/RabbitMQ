@@ -1,0 +1,41 @@
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\Receive.exe
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\Receive.deps.json
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\Receive.dll
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\Receive.pdb
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Coding Projects\RabbitMQ\Receive\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.CopyComplete
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.dll
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\refint\Receive.dll
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.pdb
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\ref\Receive.dll
+D:\Coding Projects\RabbitMQ\Receive\obj\Debug\net8.0\Receive.sourcelink.json
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\Receive.exe
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\Receive.deps.json
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\Receive.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\Receive.pdb
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.sourcelink.json
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.csproj.CopyComplete
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\refint\Receive.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.pdb
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\obj\Debug\net8.0\ref\Receive.dll
+D:\Coding Projects\RabbitMQ\Tutorial 1\Receive\bin\Debug\net8.0\dotenv.net.dll

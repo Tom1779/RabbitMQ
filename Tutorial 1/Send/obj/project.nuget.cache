@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcXO8cbtjYWf3tsdPaF5e70ZkGM7ilZ5bB3ZH5SoGmCnWdqLfuQQ8ROnKE8hc6rB9HBaKIb3loXmdyaq0bcSkw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding Projects\\RabbitMQ\\Tutorial 1\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomar\\.nuget\\packages\\dotenv.net\\4.0.0\\dotenv.net.4.0.0.nupkg.sha512",
+    "C:\\Users\\tomar\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\tomar\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\tomar\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
