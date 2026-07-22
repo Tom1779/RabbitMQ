@@ -12,9 +12,9 @@ D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.AssemblyIn
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.AssemblyInfo.cs
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.csproj.CoreCompileInputs.cache
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.sourcelink.json
-D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.csproj.CopyComplete
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.dll
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\refint\Worker.dll
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.pdb
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.genruntimeconfig.cache
 D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\ref\Worker.dll
+D:\Coding Projects\RabbitMQ\Tutorial 2\Worker\obj\Debug\net8.0\Worker.csproj.Up2Date

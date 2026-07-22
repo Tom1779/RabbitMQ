@@ -7,8 +7,10 @@ using var connection = await factory.CreateConnectionAsync();
 using var channel = await connection.CreateChannelAsync();
 
 //Creating queue in case sender hasn't started yet
-await channel.QueueDeclareAsync(queue: "hello", durable: false, exclusive: false, autoDelete: false,
-    arguments: null);
+await channel.QueueDeclareAsync(queue: "hello", durable: true, exclusive: false, autoDelete: false,
+    arguments: new Dictionary<string, object?> { { "x-queue-type", "quorum" } });
+
+await channel.BasicQosAsync(prefetchSize: 0, prefetchCount: 1, global: false);
 
 Console.WriteLine(" [*] Waiting for messages.");
 
